@@ -1,0 +1,7 @@
+Browser:  Edge
+URL:  https://demo.guru99.com/selenium/newtours/
+Headless: false
+Incognito:  false
+TakeScreenshots: true
+PageLoad: 60
+ImplicitWait: 30
